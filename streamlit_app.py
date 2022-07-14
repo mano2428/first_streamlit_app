@@ -43,3 +43,4 @@ streamlit.dataframe(my_data_rows)
 streamlit.dataframe(fruityvice_normalized)
 
 
+add my fruit=jackfruit
