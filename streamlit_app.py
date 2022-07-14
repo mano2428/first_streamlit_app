@@ -41,6 +41,3 @@ my_data_rows = my_cur.fetchall()
 streamlit.header("the fruit load list contains")
 streamlit.dataframe(my_data_rows)
 streamlit.dataframe(fruityvice_normalized)
-
-
-add my fruit=jackfruit
